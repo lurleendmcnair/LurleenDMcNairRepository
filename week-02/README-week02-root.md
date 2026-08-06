@@ -2,7 +2,7 @@
 
 ---
 
-## Focus
+## Focus...
 
 Week 2 opens Module 1 — Digital Infrastructure & CLI. Three lessons carry the week: The Cybersecurity Landscape, What's Inside a Computer, and Operating Systems at a Glance. Your lab has one part: identify your CyberFoundations City district for this module, then build and explain a diagram of how hardware, an operating system, and software interact.
 
